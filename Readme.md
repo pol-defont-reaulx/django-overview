@@ -1,4 +1,4 @@
-# FastAPI Overview and Best Practices
+# Django Overview and Best Practices
 - ### [Organization](#Organization)
 - ### [Serializers](#Serializers)
 - ### [Authentification](#Authentification)
